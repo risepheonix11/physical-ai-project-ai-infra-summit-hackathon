@@ -1,8 +1,6 @@
 # Physical AI Project — AI Infrastructure Summit Hackathon
-Simulation-first Physical AI project featuring SO-101 bimanual manipulation, MuJoCo simulation, and VLM/VLA-based control.
-# Physical AI Project
 
-Simulation-first Physical AI system developed for the AI Infrastructure Summit.
+Simulation-first Physical AI project featuring SO-101 bimanual manipulation, MuJoCo simulation, and VLM/VLA-based control.
 
 ## Overview
 
@@ -14,10 +12,10 @@ The system combines robot simulation, multimodal AI, perception, planning, and c
 
 The project is organized into four main layers:
 
-- Simulation
-- AI
-- Integration
-- Testing and Evaluation
+* Simulation
+* AI
+* Integration
+* Testing and Evaluation
 
 ## Repository Structure
 
@@ -30,3 +28,12 @@ configs/       → Configuration files
 assets/        → Simulation resources
 scripts/       → Utility and execution scripts
 docs/          → Technical documentation
+```
+
+## Status
+
+🚧 Project under development.
+
+## Reproducibility
+
+Setup instructions, configuration files, evaluation tools, and documentation will be provided to enable reproducible experimentation.
