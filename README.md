@@ -28,7 +28,6 @@ configs/       → Configuration files
 assets/        → Simulation resources
 scripts/       → Utility and execution scripts
 docs/          → Technical documentation
-```
 
 ## Status
 
