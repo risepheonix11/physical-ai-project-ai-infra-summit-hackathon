@@ -32,9 +32,9 @@ scripts/       → Utility and execution scripts
 docs/          → Technical documentation
 
 ## Status
-
+```text
 🚧 Project under development.
 
 ## Reproducibility
-
+```text
 Setup instructions, configuration files, evaluation tools, and documentation will be provided to enable reproducible experimentation.
